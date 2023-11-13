@@ -3,7 +3,7 @@ const Intro = () => {
     <section className="cv-block block-intro border-bottom">
       <div className="container">
         <div className="avatar">
-          <img className="img-fluid rounded-circle"  src="src\assets\img\Am.jpeg" />
+          <img className="img-fluid rounded-circle"  src="/Mid-FrontEnd/My-CV/src/assets/img/Am.jpeg" />
         </div>
         <p>
           Hello! I am <strong>Joy Wenur</strong>. Im involved in various aspects of tech. I work as a software developer,
